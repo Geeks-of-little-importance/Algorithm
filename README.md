@@ -8,7 +8,7 @@
 ![Python](https://img.shields.io/badge/-Python-00599C?style=flat&logo=Python&logoColor=white)
 
 ## ✅ How To
-> 📅 2022.02.07 `예정`
+> 📅 2022.05.22 `START`
 1. 격주로 2문제 해설과 테스트 진행
 2. 매주 일요일 `11:00` 코드 리뷰
 3. **각 주차별 Directory Name** : 'Week{num}'
