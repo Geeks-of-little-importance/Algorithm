@@ -38,6 +38,6 @@
 <br />
 
 ## 👩‍💻 To Solve
-|Week|1|2|
-|:---:|:---:|:---:|
-|Week 1|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)|[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)|
+|Week|1|2|3|
+|:---:|:---:|:---:|:---:|
+|Week 1|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)|[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|
