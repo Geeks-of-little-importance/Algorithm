@@ -22,7 +22,7 @@
     - 프로그래머스 : 문제명_sm.java
 6. **Commit Message** : `[Solve] ✍ 사이트명_문제번호.문제명`  
   [Solve] ✍ baekjoon_2573.빙산  
-  [Solve] ✍ programmers_level2.기능개발
+  [Solve] ✍ programmers_level2.기능개발  
   [Update] ✍ README.md
   
 <br />
