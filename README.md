@@ -41,3 +41,4 @@
 |Week|1|2|3|4|
 |:---:|:---:|:---:|:---:|:---:|
 |Week 1|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)|[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|[최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)|
+|Week 2|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)|[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)|[행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)|
