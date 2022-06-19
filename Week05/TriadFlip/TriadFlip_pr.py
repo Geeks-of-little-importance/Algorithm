@@ -1,6 +1,12 @@
-def solution(s):
-    num = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine']
-    # index를 해당 숫자로 보고 replace
-    for idx, n in enumerate(num):
-        s = s.replace(n, str(idx))
-    return int(s)
+def jinbob(n, q):
+    base = ''
+
+    while n > 0:
+        n, mod = divmod(n, q)
+        base = str(mod) + base
+
+    return base
+
+def solution(n):
+    sam = jinbob(n, 3)[::-1]
+    return int(sam, 3)
